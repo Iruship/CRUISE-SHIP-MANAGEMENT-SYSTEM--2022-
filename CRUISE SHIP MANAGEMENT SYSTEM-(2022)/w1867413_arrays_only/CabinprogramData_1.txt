@@ -1,0 +1,8 @@
+room 1 is occupied by Seyara
+Number of customers: 3
+First name of the customer: Jesus
+Last name of the customer: Pe
+room 2 is occupied by Ko
+Number of customers: 2
+First name of the customer: Jesm
+Last name of the customer: pol
